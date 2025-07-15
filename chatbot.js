@@ -1,0 +1,1 @@
+document.getElementById('chatbot').innerHTML = `<div style="position:fixed; bottom:20px; right:20px; background:#f1f1f1; border:1px solid #ccc; padding:10px;"><strong>Aurefé Chatbot</strong><br>Hello! How can I help you today?</div>`;
